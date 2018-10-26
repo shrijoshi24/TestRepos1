@@ -8,4 +8,6 @@ public static void main(String arg[])
     System.out.println("Test cherry picking");
 
     System.out.println("p-NewFeature push");
+    System.out.println("p-NewFeature push");
+    System.out.println("p-NewFeature push");
 }
