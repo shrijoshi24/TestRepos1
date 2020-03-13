@@ -1,3 +1,8 @@
 (function() {
 
+    function mainModel() {
+        
+    }
+
+    mainModel();
 })();
